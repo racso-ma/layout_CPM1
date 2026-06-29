@@ -1,0 +1,4520 @@
+[
+  {
+    "codigo": "3656545",
+    "descripcion": "PIPETAS 3ML NO ESTERIL",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3656561",
+    "descripcion": "MANGA P/ECOGRAFIA 122 CM",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3655717",
+    "descripcion": "PACK GINECO C/2 BATAS 4040B 2",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3654281",
+    "descripcion": "BANDEJA CURACION CON TIJERA REF KIT01013",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3654291",
+    "descripcion": "BANDEJA PROCEDIMIENTO URINARIO/SET VESICAL REF 09007",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      }
+    ]
+  },
+  {
+    "codigo": "3654419",
+    "descripcion": "MANGA ARTROSCOPIA 13 CM X 2.5 MT",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3651001",
+    "descripcion": "LLAVE 3 PASOS DESECHABLE (LLV)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3656484",
+    "descripcion": "COBERTOR ARCO C REF ND-5130",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3350640",
+    "descripcion": "VENDA COBAN 10 CM/4.6M (4INX5YD) ESTERIL",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "41002872",
+    "descripcion": "SOLUPREP ESPONJA ANTISEP.COLOR.X2 .10027",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3651571",
+    "descripcion": "SIST.MEDICION ORINA UREOFIX 500",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      },
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3654836",
+    "descripcion": "DELANTAL DESECHABLE ESTERIL TALLA XL",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3654826",
+    "descripcion": "DELANTAL DESECHABLE ESTERIL TALLA L",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3656337",
+    "descripcion": "MANTA TERMICA BHAC 635",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3655907",
+    "descripcion": "MANGA SCD EXPRESS AL MUSLO \"XL\"",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3655906",
+    "descripcion": "MANGA SCD EXPRESS AL MUSLO \"L\"",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3800182",
+    "descripcion": "MEDIA ANTITROMBOTICA  M",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3800184",
+    "descripcion": "MEDIA ANTITROMBOTICA  L",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3800186",
+    "descripcion": "MEDIA ANTITROMBOTICA XL",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3350335",
+    "descripcion": "VENDA ESMARK 15 CM ESTERIL REF DYNJO5918",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3653808",
+    "descripcion": "COMPRESAS HILO RADIOPACO ESTERIL-PRIMUS",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "7800081",
+    "descripcion": "CAJA PORTA CD IMAGENOLOGIA",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "41406134",
+    "descripcion": "PECHERA PLASTICA CELESTE CON MANGA Y OJAL (USO COVID)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "3800109",
+    "descripcion": "ENDOZIME AW  PLUS BD 4 LT.",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "3650931",
+    "descripcion": "GEL ULTRASONIDO/ECOTOM. 5 LTS",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "3800103",
+    "descripcion": "SURGISTAN BD 4 LT",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "3656400",
+    "descripcion": "OPASTER 5 LT",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "40502858",
+    "descripcion": "ESCUDO FACIAL ANTIEMPAÑANTE",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "32301464",
+    "descripcion": "ULTRAVIST 300 X 50ML (IOPROMIDA)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "3651285",
+    "descripcion": "HUMIDIFICADOR DESECHABLE",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "41306070",
+    "descripcion": "GUANTE VINILO SIN POLVO T/S C X100",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3654364",
+    "descripcion": "MASCARILLA C/RESERVORIO PEDIATRICO",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      },
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3660053",
+    "descripcion": "FILTRO HUMIFICADOR HMEF REF PHFT-880530",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      },
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "41306062",
+    "descripcion": "GUANTE EXAMEN NITRILO TALLA S UNIDAD",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250644",
+    "descripcion": "GUANTE PROCEDIM. NITRILO COBALTO XL",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250648",
+    "descripcion": "GUANTE NITRILO ALTO RIESGO T/S",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250581",
+    "descripcion": "GUANTES QUIR. ESTERIL LIBRE DE LATEX S/POLVO N° 7 1/2",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250564",
+    "descripcion": "GUANTES QUIR. ESTERIL LIBRE DE LATEX S/POLVO Nº 6",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250598",
+    "descripcion": "GUANTES QUIR. ESTERIL LIBRE DE LATEX S/POLVO Nº 7.0",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250571",
+    "descripcion": "GUANTES QUIR. ESTERIL LIBRE DE LATEX S/POLVO Nº 8.0",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250611",
+    "descripcion": "GUANTES QUIR.ESTERIL LIBRE DE LATEX S/POLVO N°6 1/2",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250601",
+    "descripcion": "GUANTES QUIR.ESTERIL LIBRE DE LATEX S/POLVO Nº 8 1/2",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3654354",
+    "descripcion": "MASCARILLA C/RESERVORIO ADULTO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3C"
+      }
+    ]
+  },
+  {
+    "codigo": "3651281",
+    "descripcion": "NARICERA DE OXIGENO ADULTO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3B"
+      }
+    ]
+  },
+  {
+    "codigo": "3651191",
+    "descripcion": "MASCARILLA MULTIVENT ADULTO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      }
+    ]
+  },
+  {
+    "codigo": "3660028",
+    "descripcion": "FILTRO C/HUMIFICADOR Y ALARGADOR",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3B"
+      }
+    ]
+  },
+  {
+    "codigo": "40703126",
+    "descripcion": "FILTRO VIRAL BACTERIANO REF PHFT 880529",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3B"
+      }
+    ]
+  },
+  {
+    "codigo": "3651151",
+    "descripcion": "MASCARILLA ANESTESIA TRANSP.N.4",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3651131",
+    "descripcion": "MASCARILLA ANESTESIA TRANSP.N.2",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3B"
+      }
+    ]
+  },
+  {
+    "codigo": "3451259",
+    "descripcion": "CASSETTE STERRAD 1005 X 05 COD. 10113",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3451437",
+    "descripcion": "COMPLY INTEGRADOR VAPOR 1243 (100 UNIDADES)",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3500181",
+    "descripcion": "CONTROL.OX.ETIL.250 TIRAS REF:1251",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3500161",
+    "descripcion": "CONTROL AUTOCLA.250 TIRAS REF: 1250",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3656507",
+    "descripcion": "JG744 PRECINTO INDICADOR C.ADHESIVO",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3451305",
+    "descripcion": "INDICADOR QUIM.CINTA ADH. STERRAD 14202",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3650531",
+    "descripcion": "ELECTRODO DESECH.MONIT.CARD.3M-2228",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3451291",
+    "descripcion": "INDICADOR QUIM.EN TIRAS STERRAD 14100",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3451410",
+    "descripcion": "BOWIE DICK COMPLY 3M 1233",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3656732",
+    "descripcion": "ATTEST RAPID BI FOR H202 REF 1295",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3500741",
+    "descripcion": "ROLLO INCHEQUE ROJO",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "5002973",
+    "descripcion": "FILTRO PAPEL REDONDO C. TAINER JK095",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3500151",
+    "descripcion": "CONTROL AUTOCL. ADH 3/4 24MM X 50MTS",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3650911",
+    "descripcion": "GEL ESTERIL SACHET 20 ML",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "6980181",
+    "descripcion": "VISIPAQUE 270 MG 50 ML",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3656352",
+    "descripcion": "PRECINTO PARA CIERRE DE CONTENEDOR C/INDICADOR DE VIRAJE PARA VAPOR",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "32300721",
+    "descripcion": "OMNIPAQUE 350MG X 100ML",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "42901991",
+    "descripcion": "VISIPAQUE 320MG 10X100ML",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "6980329",
+    "descripcion": "DOTAREM 15 ML",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3600467",
+    "descripcion": "PLACA DDRY STAR MAMO DT-2B 25X30CM AGFA",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "4013670",
+    "descripcion": "SGK-6 MULTI-BAND LIGATOR",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3656670",
+    "descripcion": "ESPONJA PARA LAVADO ENDOSCOPIOS COD.: 711686 ( VIA DRY SPONGE)",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3656663",
+    "descripcion": "VALVULA DESECHABLE P/ CANAL BIOPSIA  DE ENDOSCOPIOS",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3656665",
+    "descripcion": "AGUJA INYECCION ESCLEROTERAPIA PARA ENDOSCOPIA BAJA",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      }
+    ]
+  },
+  {
+    "codigo": "3656502",
+    "descripcion": "SET DE BANDAS PARA VARICES ESOFAGICAS SUPER 7 CON 7 BANDAS ELASTICAS",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      }
+    ]
+  },
+  {
+    "codigo": "41105093",
+    "descripcion": "SET CEPILLO DE LIMPIEZA DESECHABLE (100 UNID.CAJA)",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      }
+    ]
+  },
+  {
+    "codigo": "3651171",
+    "descripcion": "MASCARILLA DESECHABLE CON ELASTICO",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3250111",
+    "descripcion": "GUANTES QUIRURG.ESTERILES 9",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      }
+    ]
+  },
+  {
+    "codigo": "3250061",
+    "descripcion": "GUANTES QUIRURG.ESTERILES N° 6 1/2",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      }
+    ]
+  },
+  {
+    "codigo": "3250071",
+    "descripcion": "GUANTES QUIRURG.ESTERILES N° 7.0",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      }
+    ]
+  },
+  {
+    "codigo": "3250101",
+    "descripcion": "GUANTES QUIRURG.ESTERILES N° 8 1/2",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      }
+    ]
+  },
+  {
+    "codigo": "3250091",
+    "descripcion": "GUANTES QUIRURG.ESTERILES N° 8.0",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      }
+    ]
+  },
+  {
+    "codigo": "3250081",
+    "descripcion": "GUANTES QUIRURG.ESTERILES N°7 1/2",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      }
+    ]
+  },
+  {
+    "codigo": "3250649",
+    "descripcion": "GUANTE NITRILO ALTO RIESGO T/M",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      }
+    ]
+  },
+  {
+    "codigo": "41306069",
+    "descripcion": "GUANTE VINILO SIN POLVO T/M C X100",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      }
+    ]
+  },
+  {
+    "codigo": "41306063",
+    "descripcion": "GUANTE EXAMEN NITRILO TALLA M UNIDAD",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2C"
+      }
+    ]
+  },
+  {
+    "codigo": "3500721",
+    "descripcion": "STERIKING RB-52 15 CM X 100",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3500481",
+    "descripcion": "STERIKING RB-55 30 X 80",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3451119",
+    "descripcion": "STERIKING R-41 10 X 200 S/ FUELLE",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3451283",
+    "descripcion": "TYVEK ROLL 40CM X 100 MM (STERRAD) 12442",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3451465",
+    "descripcion": "TYVEK ROLL 20 X 100",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3451267",
+    "descripcion": "TYVEK ROLL 150 MM X 100 (STERRAD) 12415",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3500401",
+    "descripcion": "SOBRE V°B°AUTOCLAVE 4 KG 25 X 10 X 38.4 CMS",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3653646",
+    "descripcion": "PAQ.PIERNERA PAR 73X130",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3500461",
+    "descripcion": "STERIKING RB-51 10 CM X 100",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3500471",
+    "descripcion": "STERIKING RB-53 20 CM X 100",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3451127",
+    "descripcion": "STERIKING R-43 20 X 200 S/FUELLE",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3656456",
+    "descripcion": "STERIKING 5X200 MT S/FUELLE",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3500451",
+    "descripcion": "STERIKING R-40 7.5 X 200 S/FUELLE",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3451356",
+    "descripcion": "TYVEK ROLL 100 MM X 100 MT (STERRAD)",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3451348",
+    "descripcion": "TYVEK ROLL 75 MM X 100 MT (STERRAD)",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "43700512",
+    "descripcion": "CISTOSCOPIO FLEXIBLE DESECHABLE (OTU)",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      },
+      {
+        "pasillo": "2",
+        "ubicacion": "2E"
+      }
+    ]
+  },
+  {
+    "codigo": "4007761",
+    "descripcion": "6648 IOBAN 60X60",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2D"
+      }
+    ]
+  },
+  {
+    "codigo": "3250650",
+    "descripcion": "GUANTE NITRILO ALTO RIESGO T/L",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2E"
+      }
+    ]
+  },
+  {
+    "codigo": "41306064",
+    "descripcion": "GUANTE EXAMEN NITRILO TALLA L UNIDAD",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2E"
+      }
+    ]
+  },
+  {
+    "codigo": "41306068",
+    "descripcion": "GUANTE VINILO SIN POLVO T/L C X100",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2E"
+      }
+    ]
+  },
+  {
+    "codigo": "3651181",
+    "descripcion": "MASCARILLA QUIRURGICA DESECHABLE CON AMARRAS",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2E"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "41406130",
+    "descripcion": "MASCARILLA PROTECTORA KN95",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2E"
+      }
+    ]
+  },
+  {
+    "codigo": "3654567",
+    "descripcion": "TAPON AUDITIVO BLANDO 3M",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2E"
+      }
+    ]
+  },
+  {
+    "codigo": "3653937",
+    "descripcion": "MASCARILLA 3M 8511 C/VALVULA (USO QMT)",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2E"
+      }
+    ]
+  },
+  {
+    "codigo": "3200221",
+    "descripcion": "DRENAJE AQUASEAL SIMPLE",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2E"
+      }
+    ]
+  },
+  {
+    "codigo": "3654034",
+    "descripcion": "PINZA BIOPSIA BAJA 2.3MM X 230CM",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2E"
+      }
+    ]
+  },
+  {
+    "codigo": "3654022",
+    "descripcion": "PINZA BIOPSIA ALTA 2.3MM X 180CM",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2E"
+      }
+    ]
+  },
+  {
+    "codigo": "43700036",
+    "descripcion": "JERINGA CONEXION ENFIT 60 ML REF 9000786",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250520",
+    "descripcion": "JERINGA PERFUSOR BRAUN 50 ML.",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "43700035",
+    "descripcion": "JERINGA CONEXION ENFIT 20 ML REF 9000785",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250201",
+    "descripcion": "JERINGA DESECH.INSULINA 100UI 1CC C/AG.",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250172",
+    "descripcion": "JERINGA 3CC EMBUTIDA (LUER SLIP)",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250371",
+    "descripcion": "JERINGA DESECH.5CC ATORNILLADAS (LUER LOCK)",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250141",
+    "descripcion": "JERINGA DESECH.3CC C/AG. ATORNILLADAS (LUER LOCK)",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "3656136",
+    "descripcion": "SABANA EN U  IMPERMEABLE",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3653030",
+    "descripcion": "BAJADA  IRRIGACION UROLOGICA  PEFUS 2V EN Y",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3E"
+      }
+    ]
+  },
+  {
+    "codigo": "3654370",
+    "descripcion": "KIT DESECH. PACIENTE",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      }
+    ]
+  },
+  {
+    "codigo": "3350231",
+    "descripcion": "TUBULAR  5CMX25MT ROLLO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3350241",
+    "descripcion": "TUBULAR  8CMX25MT ROLLO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3350251",
+    "descripcion": "TUBULAR 10CMX25MT ROLLO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3350271",
+    "descripcion": "TUBULAR 20CMX25MT ROLLO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3350261",
+    "descripcion": "TUBULAR 15CMX25MT ROLLO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3656395",
+    "descripcion": "GUANTE ASEO PERSONAL",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3656742",
+    "descripcion": "ESPECULO DESECHABLE TALLA L",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      }
+    ]
+  },
+  {
+    "codigo": "3656741",
+    "descripcion": "ESPECULO DESECHABLE TALLA M",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      }
+    ]
+  },
+  {
+    "codigo": "3650961",
+    "descripcion": "GORRO DESECH.ENFERMERA",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3C"
+      }
+    ]
+  },
+  {
+    "codigo": "3654885",
+    "descripcion": "CUBRECALZADO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3C"
+      }
+    ]
+  },
+  {
+    "codigo": "3650951",
+    "descripcion": "GORRO DESECH.CIRUJANO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3655071",
+    "descripcion": "DELANTAL L POLIREFORZADO (USO QTM)",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "3350601",
+    "descripcion": "CABESTRILLO TALLA S",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3C"
+      }
+    ]
+  },
+  {
+    "codigo": "3656736",
+    "descripcion": "BOLSA DESECH. SUCCION 1000 ML",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3C"
+      }
+    ]
+  },
+  {
+    "codigo": "3500101",
+    "descripcion": "BOLSA DESECH. SUCCION 1500 ML ( USO EXCLUSIVO ENDOSCOPIA )",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3C"
+      }
+    ]
+  },
+  {
+    "codigo": "3654915",
+    "descripcion": "BOLSA DESECH. SUCCION 2000 ML",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3C"
+      }
+    ]
+  },
+  {
+    "codigo": "3652221",
+    "descripcion": "BOLSA DESECH. SUCCION 3000 ML",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3C"
+      }
+    ]
+  },
+  {
+    "codigo": "3655857",
+    "descripcion": "PAQUETE CADERA FENESTRACION 2 DELANTERA",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3C"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3250191",
+    "descripcion": "JERINGA DESECH.60CC CON PISTON",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "3250181",
+    "descripcion": "JERINGA DESECH.50CC S/AG. LUER LOCK (KIT TIVA) (REF 300865)",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "4000018",
+    "descripcion": "PATO URINARIO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "4000069",
+    "descripcion": "CHATA PLANA",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "3250271",
+    "descripcion": "JERINGA DES.50 CC LUER SLIP PTA. EXCENTRICA S/AGUJA REF JD-50E-IB",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "3250161",
+    "descripcion": "JERINGA DESECH.10CC C/AG. ATORNILLADAS (LUER LOCK)",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "3500659",
+    "descripcion": "TORULA DE ALGODON 1 0 G. GRANEL X 100",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3500640",
+    "descripcion": "TORULA ALGODON 3 0 G. GRANEL X 100",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800441",
+    "descripcion": "SET DE BAÑO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "42901518",
+    "descripcion": "BATA PCTE. DESECHABLE ADULTO KIMONO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "3654366",
+    "descripcion": "BATA PEDIATRICA 0-3 AÑOS 45X70CM",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "40906437",
+    "descripcion": "BAJADA INFUSOMAT ALIM. ENTERAL 300CM REF 8700370",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      }
+    ]
+  },
+  {
+    "codigo": "40906436",
+    "descripcion": "BAJADA INFUSOMAT TRANSFUSION 240CM REF  8700350",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3E"
+      }
+    ]
+  },
+  {
+    "codigo": "40906434",
+    "descripcion": "BAJADA EQ INFUSOR INFUSOMAT LINE 300CM REF8700210",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3650621",
+    "descripcion": "EQUIPO INFUSOR  (URGENCIA)",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3E"
+      }
+    ]
+  },
+  {
+    "codigo": "3652281",
+    "descripcion": "TUBO DESECH.ARTROSC.P/2 BOLS. AR-6200",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3E"
+      }
+    ]
+  },
+  {
+    "codigo": "3653468",
+    "descripcion": "TUBO ASPIRAC ESTERIL 3 MTS.",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3E"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3656338",
+    "descripcion": "BATA PACIENTE DESECHABLE STANDARD",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3654435",
+    "descripcion": "PACK QUIRURGICO DESECH.DE HOMBRO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      }
+    ]
+  },
+  {
+    "codigo": "3656331",
+    "descripcion": "PACK CABEZA CUELLO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3654443",
+    "descripcion": "SABANA P/CIRUGIA DE MANO P082B",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3656504",
+    "descripcion": "DELANTAL XL POLIREFORZADO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3653652",
+    "descripcion": "PACK QUIRURGICO DESECH.UNIVERSAL P012B",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3650341",
+    "descripcion": "CIRCUITO LIMBO 180CC/3 LT. VITAL S.",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3650543",
+    "descripcion": "PACK ROPA QUIRURGICA ARTROSCOPIA RODILLA",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      },
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "40906438",
+    "descripcion": "BAJADA INFUSOMAT FOTOSENSIBLE 240CM REF 8700260",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3655687",
+    "descripcion": "RECOGE LECHE BESTHOUSE (AMP. PAR)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3655679",
+    "descripcion": "PROTECTOR PEZON CAUCHO (PAR)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3655644",
+    "descripcion": "CHUPETE P/LABIO LEPORINO",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3655733",
+    "descripcion": "CLAMP",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3651491",
+    "descripcion": "ESTUCHE PENEAL ADULTO",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3553407",
+    "descripcion": "TABLILLA PUNCION PEDIATRICA",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3656679",
+    "descripcion": "BAJADA PLUM DOBLE CANAL P/2 FARMACOS ONCOLOGICOS",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3656680",
+    "descripcion": "EQUIPO PRIMARIO PLUM CON CLAVE",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3550031",
+    "descripcion": "EQUIPO INFUSOR SANGRE",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3350827",
+    "descripcion": "TUBIGRIP G C/CM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3350797",
+    "descripcion": "TUBIGRIP A C/CM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3350211",
+    "descripcion": "TUBIGRIP E 1434 8.75CMX10MT  C/CM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3553401",
+    "descripcion": "TORNIQUETE EXTRACCION SANGRE ADULTO",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3652705",
+    "descripcion": "BRAZALETE DE PRESION 2 VIAS ADULTO GENERAL (27-35CM)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3350842",
+    "descripcion": "VENDA COBAN 2 REF 2094",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3350225",
+    "descripcion": "TELA ADHES. MICROPORE 1\"COLOR PIEL",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3350511",
+    "descripcion": "VENDA TENSOPLAST 10CM X 4 5MT (4068)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3350130",
+    "descripcion": "TELA ADHES. LEUKOPLAST 1\" X 5YD",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3350131",
+    "descripcion": "TELA ADHES.LEUKOPLAST 2\" X 5 YDS",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3350161",
+    "descripcion": "TELA ADHES.MICROPORE 2\" X 10 YDS 1535-2",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3350181",
+    "descripcion": "TELA ADHES.TRANSPORE 2\" X 10 YDS (4 UNIDADES) - 1527-3",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3350171",
+    "descripcion": "TELA ADHES.TRANSPORE 1\" X 10 YDS (12 UNIDADES) - 1527-1",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3653342",
+    "descripcion": "TELFA CLEAR 30 X 30 5 CM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3350151",
+    "descripcion": "TELA ADHES.MICROPORE 1/2\"X 10 YDS",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3350141",
+    "descripcion": "TELA ADHES.MICROPORE 1\" X 10 YDS 1535-1",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3655989",
+    "descripcion": "FUNDA DESCARTABLE TERMÓMETRO FILAC 3000",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3654478",
+    "descripcion": "TEGADERM IV 7 X 9 REF 1683",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3350638",
+    "descripcion": "TELA ADES.MEDIPORE 5 CM X 9.1 MT 3M-2862",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3653602",
+    "descripcion": "TEGADERM C/GASA 9X 5 OPSITE POST-OP (25 UNIDADES) - (3589)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3653559",
+    "descripcion": "TELA ADES.MEDIPORE 10 X 9 CM 3M 2964",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3750083",
+    "descripcion": "DRENAJE BLAKE 19 FR C/ TROCAR (COD. 2231)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3300587",
+    "descripcion": "STIMUPLEX ULTRA 360° 22GX3 1/8 80MM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3655865",
+    "descripcion": "PRESERVATIVO EN SECO",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3100031",
+    "descripcion": "BISTURI (HOJA) N.12",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3100021",
+    "descripcion": "BISTURI (HOJA) N.11",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3100041",
+    "descripcion": "BISTURI (HOJA) N.15",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3100051",
+    "descripcion": "BISTURI (HOJA) N.20",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3100061",
+    "descripcion": "BISTURI (HOJA) N.21",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3500731",
+    "descripcion": "TOALLITAS IMPREGNADAS ALCOHOL",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3656560",
+    "descripcion": "STIMUPLEX ULTRA 360° G22 X 50 MM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3654303",
+    "descripcion": "LAPIZ MARCADOR DE PIEL ESTERIL",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3656558",
+    "descripcion": "BRAZALETE ID ADULTO P/IMPRESORA HOFMANN 7022-11",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3350351",
+    "descripcion": "VENDA CINTELA 10CM X 5YDS",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3653987",
+    "descripcion": "CANDADO (SELLO) DE SEGURIDAD",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3401090",
+    "descripcion": "TORULA NASOFARINGEA",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3653523",
+    "descripcion": "PARCHE CURITA REDONDO",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3350501",
+    "descripcion": "VENDA GASA ELAST. 10CM X 4MT",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4A.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3656336",
+    "descripcion": "PANTALON ENDOSCOPIA TALLA XL",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3654427",
+    "descripcion": "SURGILAVE",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "3650661",
+    "descripcion": "ESCOBILLA DESECHABLE QUIRURGICA",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3800954",
+    "descripcion": "VACUETTE 4 ML VERDE HEP SODIO",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3200345",
+    "descripcion": "MINICOLLECT  1 ML ROJO",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3555062",
+    "descripcion": "VACUETTE 4 ML ROJO C/GEL REF:454067",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3553436",
+    "descripcion": "VACUETTE 3.0ML CELESTE",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3553448",
+    "descripcion": "VACUETTE 3ML LILA  (EDTE)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3651031",
+    "descripcion": "MARIPOSA 19G",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3651041",
+    "descripcion": "MARIPOSA 21G",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3651051",
+    "descripcion": "MARIPOSA 23G",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "43700501",
+    "descripcion": "CINTAS DE GLICEMIA CARESENS PRO STRIP",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "43700502",
+    "descripcion": "LANCETAS CARESENS SAFETY LANCET 30G",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3050071",
+    "descripcion": "AGUJA HIPOD. DESECH. 23G X 1",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3300560",
+    "descripcion": "TROCAR ESPIN.DESECH.N.22 X 3.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3050653",
+    "descripcion": "AGUJA MULTIPLE 21G X 1 1/2 C/VISOR",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3300642",
+    "descripcion": "TROCAR ESP. PUNTA LAPIZ 25 X 5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3300151",
+    "descripcion": "TROCAR ESPIN.DESECH.N.21 X 3.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3300609",
+    "descripcion": "TROCAR ESP. PUNTA LAPIZ 25X 4\"",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3050587",
+    "descripcion": "AGUJA DESECH.27G*1/2\" OFTALMOLOGIA",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3050091",
+    "descripcion": "AGUJA HIPOD. DESECH. 25G X 5/8",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3050051",
+    "descripcion": "AGUJA HIPOD. DESECH. 21G X 1 1/2",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3050092",
+    "descripcion": "AGUJA HIPOD. DESECH. 25G X 1",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3050081",
+    "descripcion": "AGUJA HIPOD. DESECH. 24G X 1",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3550511",
+    "descripcion": "RECOLECTOR ORINA PEDIATRICO",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3550891",
+    "descripcion": "MEDIO TRANSP. STUART (HANEL)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3555344",
+    "descripcion": "TORULA INDIVIDUAL ESTERIL SACHET CON VASTAGO DE MADERA",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3655563",
+    "descripcion": "MEDIO TRANSPORTE CARRIBLAIR",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3650191",
+    "descripcion": "BOLSA ORINA DESECH.2000 CC",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3555138",
+    "descripcion": "TEST LIQUIDO TOLERANCIA A LA GLUCOSA LIMON X 24 75GR/250CC",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3655113",
+    "descripcion": "BIKINI DESECHABLE (CALZON)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3654338",
+    "descripcion": "HISOPO ESTERIL",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.3"
+      }
+    ]
+  },
+  {
+    "codigo": "41206719",
+    "descripcion": "HOJA DESCARTABLE N°04 REF350-013-000",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.3"
+      }
+    ]
+  },
+  {
+    "codigo": "41206721",
+    "descripcion": "HOJA DESCARTABLE N°02 REF350-017-000",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.3"
+      }
+    ]
+  },
+  {
+    "codigo": "42901401",
+    "descripcion": "HOJA DESCARTABLE N°03 REF350-005-000",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3150416",
+    "descripcion": "CATETER VEN.CENTRAL TRIP.LUM.7 FR 20 CM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3652161",
+    "descripcion": "BOLSA ORINA 2000 URIMED SP REF 28630 USO PABELLON",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4B.3"
+      }
+    ]
+  },
+  {
+    "codigo": "42001461",
+    "descripcion": "CONJ EXALATORIO DE AVEA DES. ACCESORIO REF 11790",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.1"
+      }
+    ]
+  },
+  {
+    "codigo": "6990451",
+    "descripcion": "GLICINA 10 G",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3656700",
+    "descripcion": "SUJETADOR DE T.E.T",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3652452",
+    "descripcion": "PECHERA LARGA BLANCA S/MANGA 70X140 (UTI)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3656402",
+    "descripcion": "OPASTER TIRAS CONTROL",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3551971",
+    "descripcion": "CAJA P/BACILOSCOPIA 20 CC",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3656397",
+    "descripcion": "PAÑO CLINICO 38X66 (PAQUETE 2 UNIDADES)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3650051",
+    "descripcion": "ALARGADOR VENOSO 100 CM C/LLAVE 3P.",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3650031",
+    "descripcion": "ALARGADOR VENOSO C/LLAVE 3P 10 CM (LLV-10)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3656152",
+    "descripcion": "C6001 SIST. IRRIGACION Y ASP. (TROMPETA)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3800968",
+    "descripcion": "APURADOR E INFUSOR DE SANGRE/SUERO",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3750087",
+    "descripcion": "RESERVORIO J-VAC 100CC REF 2160",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3300081",
+    "descripcion": "TEFLON INTRAVENOSO 24G X 19MM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3300041",
+    "descripcion": "TEFLON INTRAVENOSO 20G X 50MM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3300271",
+    "descripcion": "TEFLON INTRAVENOSO 18G X 32MM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3300301",
+    "descripcion": "TEFLON INTRAVENOSO 20G X 32MM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3300071",
+    "descripcion": "TEFLON INTRAVENOSO 22G X 25MM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3650521",
+    "descripcion": "ELECTRODO DESECH. TEST DE ESFUERZO REF 31013926",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3650541",
+    "descripcion": "ELECTRODOS P/TENZ REF DF2X2 (3M-6225)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3656694",
+    "descripcion": "ALARGADOR ARTERIAL M-M 60CM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3451021",
+    "descripcion": "TUBO ENDOTRAQ.PREF.ORAL C/C 4.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      },
+      {
+        "pasillo": "4",
+        "ubicacion": "4D,2"
+      }
+    ]
+  },
+  {
+    "codigo": "3401097",
+    "descripcion": "SONDA NASOYEYUNAL N.12 REF 398-12-P",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3654451",
+    "descripcion": "PAPEL ELECTROCARDIOGRAMA P/MOD. AR600 ADV",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3654461",
+    "descripcion": "TAPON O CONECTOR CLAVE VENLINE",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3651733",
+    "descripcion": "TAPA ROJA",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3650601",
+    "descripcion": "EQUIPO DRENAJE ESTERIL 18 FR HEMOVAC",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3650561",
+    "descripcion": "EQUIPO DRENAJE ESTERIL 10FR/400 CC HEMOVAC",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3451414",
+    "descripcion": "EQUIPO DRENAJE ESTERIL HEMOSUC FR 12 400CC",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3650581",
+    "descripcion": "EQUIPO DRENAJE ESTERIL 14 FR HEMOVAC",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3653511",
+    "descripcion": "AEROCAMARA ADULTO",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3350421",
+    "descripcion": "VENDA YESO SPECIALIST 10CM (4\")",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3350441",
+    "descripcion": "VENDA YESO SPECIALIST 15CM (6\")",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3450816",
+    "descripcion": "MASCARA LARINGEA INTRAVENT (LMA UNIQUE) 4",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3350431",
+    "descripcion": "VENDA YESO SPECIALIST 12CM (5\")",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3350451",
+    "descripcion": "VENDA YESO SPECIALIST 20CM (8\")",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3350541",
+    "descripcion": "VENDA YESO PLASTICO 4\" ( 10CM)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3450800",
+    "descripcion": "MASCARA LARINGEA 2.5 LMA UNIQUE",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3652373",
+    "descripcion": "PLACA NEUTRA CON SISTEMA REM REF E7508",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3200280",
+    "descripcion": "CONECTOR BAJA PRESION 60\" P/INYECTORA 2MT",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3E"
+      }
+    ]
+  },
+  {
+    "codigo": "3651481",
+    "descripcion": "ALARGADOR ARTERIAL 150CMS 4,5ML NEMO(KIT TIVA)AMH150",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3654265",
+    "descripcion": "LAPIZ ELECTROBISTURI VL2610",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4C.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3451003",
+    "descripcion": "TUBO ENDOTRAQ.PREF.ORAL C/C 5.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D,2"
+      }
+    ]
+  },
+  {
+    "codigo": "3400441",
+    "descripcion": "SONDA NASOG.DESECH. N.16",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3400091",
+    "descripcion": "SONDA ASPIRAC.C/VALVULA 18",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3400511",
+    "descripcion": "SONDA NELATON DESECH.N.16",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3400471",
+    "descripcion": "SONDA NELATON DESECH.N.8-9",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3400491",
+    "descripcion": "SONDA NELATON DESECH.N.12 FR",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3400051",
+    "descripcion": "SONDA ASPIRAC.C/VALVULA 10",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3400061",
+    "descripcion": "SONDA ASPIRAC.C/VALVULA 12",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3400041",
+    "descripcion": "SONDA ASPIRAC.C/VALVULA  8",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3400847",
+    "descripcion": "SONDA ASPIRAC.C/VALVULA  6",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3450281",
+    "descripcion": "TUBO ENDOTRAQ.C/CUFF  7.0",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3451038",
+    "descripcion": "TUBO ENDOTRAQ.PREF.ORAL C/C 4.0",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.1"
+      }
+    ]
+  },
+  {
+    "codigo": "3650461",
+    "descripcion": "MATERIAL ASEO PERSONAL DESECHABLE REF 9680",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3401510",
+    "descripcion": "SONDA PROSTATICA DOUFOUR SILICONA 3V 22FR 30ML",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3450241",
+    "descripcion": "TUBO ENDOTRAQ.C/CUFF  5.0",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3450521",
+    "descripcion": "TUBO ENDOTRAQ. S/CUFF  4.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3450866",
+    "descripcion": "TUBO ENDOTR.PREF.NASAL S/C N°4.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3450501",
+    "descripcion": "TUBO ENDOTRAQ. S/CUFF  3.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3450311",
+    "descripcion": "TUBO ENDOTRAQ.C/CUFF  8.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3450421",
+    "descripcion": "TUBO ENDOTRAQ.PREF.NASAL C/C 7.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3451178",
+    "descripcion": "TUBO ENDOTRAQ.C/CUFF 4.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3450301",
+    "descripcion": "TUBO ENDOTRAQ.C/CUFF  8.0",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3450141",
+    "descripcion": "CANULA NASOFARINGEA 7.0 MM",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3450461",
+    "descripcion": "TUBO ENDOTRAQ.PREF.ORAL C/C 7.0",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3450201",
+    "descripcion": "CANULA YANKAHUER C.CONT.SUCC. 8888505123",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3450471",
+    "descripcion": "TUBO ENDOTRAQ.PREF.ORAL C/C 7.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.2"
+      }
+    ]
+  },
+  {
+    "codigo": "3450919",
+    "descripcion": "CANULA YANKAHUER PUNTA BULBO (REF 8888505016)",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3451224",
+    "descripcion": "TUBO ENDOTRAQ.C/CUFF 3.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3450291",
+    "descripcion": "TUBO ENDOTRAQ.C/CUFF  7.5",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3401507",
+    "descripcion": "SONDA PROST DUFOUR SILICONA 3V/20FR 75CC",
+    "ubicaciones": [
+      {
+        "pasillo": "4",
+        "ubicacion": "4D.3"
+      }
+    ]
+  },
+  {
+    "codigo": "3656341",
+    "descripcion": "CAL SODADA 4.5 KG.",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3654753",
+    "descripcion": "KIT REGIONAL RAQUIDEA CODIGO 29007",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      },
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      }
+    ]
+  },
+  {
+    "codigo": "3555423",
+    "descripcion": "FRASCO RECOLECTOR ESTERIL 60ML",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      },
+      {
+        "pasillo": "3",
+        "ubicacion": "3E"
+      }
+    ]
+  },
+  {
+    "codigo": "3654761",
+    "descripcion": "PACK OFTALMOLOGIA ESTERIL III REF 7504",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "32901628",
+    "descripcion": "ALCOHOL GEL ENDURE 300 950CC",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "42902046",
+    "descripcion": "JABON NEUTRO 950ML",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "41203922",
+    "descripcion": "KIT TROCARES COLECISTECTOMIA PROMEDON",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800031",
+    "descripcion": "TOALLA DE ASEO PERSONAL DESECHABLE",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "42902112",
+    "descripcion": "KIT DE ENDOSCOPIA ALTA",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "42902113",
+    "descripcion": "KIT DE ENDOSCOPIA BAJA",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5070841",
+    "descripcion": "SUERO GLICINA IRRIG.VESICAL 3 LT",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5071080",
+    "descripcion": "SUERO FISIOLOGICO 100 CC MATRAZ BLANDO",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5071274",
+    "descripcion": "SUERO GLUCOSADO 30% 500 CC",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5750011",
+    "descripcion": "SUERO FISIOLOGICO 0.9% 250 CC MATRAZ DURO",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5070711",
+    "descripcion": "SUERO FISIOLOGICO 0.9% 500 CC MATRAZ DURO",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5071042",
+    "descripcion": "SUERO FISIOLOGICO 0.9% 500 CC  MATRAZ BLANDO",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5070131",
+    "descripcion": "SUERO FISIOLOGICO 0.9% 1000 CC MATRAZ DURO",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5071315",
+    "descripcion": "SUERO GLUCOSALINO 1000 CC BAXTER",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5071445",
+    "descripcion": "SUERO FISIOLOGICO 3000 CC P/IRRIGAC.",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5071331",
+    "descripcion": "SUERO GLUCOSALINO 500 CC BAXTER",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5071078",
+    "descripcion": "SUERO GLUCOSADO 5% 1000 CC BAXTER",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5071121",
+    "descripcion": "SUERO RINGER LACTATO 500 CC BAXTER",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5071224",
+    "descripcion": "SUERO GLUCOSADO 5% 250CC BAXTER",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5750021",
+    "descripcion": "AGUA BIDESTILADA 500 CC MATRAZ DURO",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "6650061",
+    "descripcion": "SUERO FISIOLOGICO 0.9% 20 CC",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5071030",
+    "descripcion": "SUERO FISIOLOGICO 0.9% 250 CC MATRAZ BLANDO",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5070831",
+    "descripcion": "SUERO RINGER LACTATO 3000 ML (USO ARTROSCOPICO)",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800397",
+    "descripcion": "ZAPATO POST OPERATORIO M",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800399",
+    "descripcion": "ZAPATO POSTOPERATORIO L",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800301",
+    "descripcion": "BOTA INMOVILIZADORA LARGA \"L\"",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800303",
+    "descripcion": "BOTA INMOVILIZADORA LARGA \"M\"",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800305",
+    "descripcion": "BOTA INMOVILIZADORA LARGA \"S\"",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3652261",
+    "descripcion": "BASTON CANADIENSE ALUMINIO",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3250547",
+    "descripcion": "KIT JERINGA 200 CC P/INYECTORA",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3200302",
+    "descripcion": "TUBO SILASTIC 2 X 4 MM, CADA CM",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3200329",
+    "descripcion": "TUBO SILASTIC 1 X 2 MM  CADA CM",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3200310",
+    "descripcion": "TUBO SILASTIC 4 X 7 MM  CADA CM",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3200171",
+    "descripcion": "TUBO SILASTIC 3X5MM 25 MTS,C/CM",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3200151",
+    "descripcion": "TUBO SILASTIC 8X12MM 25 MTS,C/CM",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3200161",
+    "descripcion": "TUBO SILASTIC 5X8MM 25MTS  C/CM",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3200299",
+    "descripcion": "TUBO SILASTIC 7X10 MM 25 MTS  C/CM",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3200121",
+    "descripcion": "TUBO SILASTIC 6X 9 MM 25 MTS C/CM",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3656521",
+    "descripcion": "HOJA POLIPROPILENO 100 X 100CM (VERDE)",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3500361",
+    "descripcion": "PAPEL STERI WRAP/STERI SHEET 77 50 X 50(500 U)",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3500371",
+    "descripcion": "PAPEL STERI WRAP/STERI SHEET 77 75X75(250 U)",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3451364",
+    "descripcion": "HOJA POLIPROPILENO 90X90 (STERRAD)",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3451380",
+    "descripcion": "HOJA POLIPROPILENO 120 X 120 (AZUL)",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3451313",
+    "descripcion": "HOJA POLIPROPILENO 60X60 STERRAD 10724",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3653739",
+    "descripcion": "HOJA POLIPROPILENO AZUL 40 X 40",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "41304959",
+    "descripcion": "PROTECTOR DE CAMA 60X90",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5300177",
+    "descripcion": "POVIDONA YODADA 10% 250 CC",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "41100896",
+    "descripcion": "AMONIO CUATERNARIO/ALCOHOL 0.48/72 % 500ML (POTENZA LPU)",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800107",
+    "descripcion": "PREPZYME  650 ML",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5080813",
+    "descripcion": "CLORHEXIDINA COLOREADA 125CC",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800869",
+    "descripcion": "CREMA NEUTRA DIFEM 340ML (HYDROSEPT F4)",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "41104704",
+    "descripcion": "POTENZA DESINF.AMONIOCUATER. BIO 5KG",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5080391",
+    "descripcion": "JABON ANTISÉP.CLOREXID.2%1 LT",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "6990071",
+    "descripcion": "ALCOHOL DESNATURALIZADO 70° LT.",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800111",
+    "descripcion": "SURGISLIP LUBRICANTE",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5070662",
+    "descripcion": "ALCOHOL ISOPROPÍLICO 70° 290 ML",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5080721",
+    "descripcion": "ALCOHOL FCO. 250 ML.",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5050103",
+    "descripcion": "SEVORANE 250 ML (INDUCCION)",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5050086",
+    "descripcion": "ISOFLUORANO (FORENE) 250 ML X HR",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "42901608",
+    "descripcion": "JABON YODADO SOLUCION TOPICA 0.8% X12",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3656580",
+    "descripcion": "TOALLAS ABSORCION FORMALINA X 25 UNIDADES",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "6650120",
+    "descripcion": "BICARBONATO SODIO 2/3 MOLAR 250 ML",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3656396",
+    "descripcion": "PACK LAPAROSCOPIA GENERAL MEDLINE REF DYNJP3100S",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5071054",
+    "descripcion": "SUERO FISIOLOGICO 0.9% 1000 CC  MATRAZ BLANDO",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800966",
+    "descripcion": "QUITA ESMALTE SOL.",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Res.Peligrosos"
+      }
+    ]
+  },
+  {
+    "codigo": "6990033",
+    "descripcion": "ACETONA 60 ML.",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800311",
+    "descripcion": "BOTA INMOVILIZADORA CORTA \"S\"",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800309",
+    "descripcion": "BOTA INMOVILIZADORA CORTA\"M\"",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3800725",
+    "descripcion": "RODILLERA INMOVILIZADORA  COD.MI-43",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "5080141",
+    "descripcion": "ALCOHOL GEL 340 ML",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "3653573",
+    "descripcion": "CIRCUITO ANESTESIA DESECH. ADULTO",
+    "ubicaciones": [
+      {
+        "pasillo": "Estacionamiento",
+        "ubicacion": "B. Estacionamiento"
+      }
+    ]
+  },
+  {
+    "codigo": "33100189",
+    "descripcion": "PRIOSOL 2K 2 MMOL/L SOLUCION PARA HEMOFILTRACION (REF 8954)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3656630",
+    "descripcion": "LLAVE TRES PASOS BRAUN (USO EXCLUSIVO URG.IMG. KIT TIVA)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "43700653",
+    "descripcion": "ESPECULO NASAL DESECHABLE (ADULTO/PEDIATRICO)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "43001501",
+    "descripcion": "SOLUPREP APLICADOR SOLUCION ANTISEPTICA COLOREADA 35ML (REF 10024)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3656592",
+    "descripcion": "COBERTOR TERMICO 1/2 PIEZA SUPERIOR REF. 62200",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3800188",
+    "descripcion": "MEDIA ANTITROMBOTICA XXL",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "43700902",
+    "descripcion": "MANTA CALEFACTORA ADULTO (BAJO PACIENTE) CALIMA",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "43700903",
+    "descripcion": "MANTA CALEFACTORA ADULTO (MIEMBRO SUPERIOR) CALIMA",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "43700943",
+    "descripcion": "MANGA ANTIEMBOLICA MUSLO TALLA M (REF 001-013-17500)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "43700944",
+    "descripcion": "MANGA ANTIEMBOLICA MUSLO TALLA L (REF 001-013-18620)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "43700942",
+    "descripcion": "MANGA ANTIEMBOLICA MUSLO TALLA S (REF 001-013-17495)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "6980244",
+    "descripcion": "OPTIRAY 320 MG 100 ML",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "41102460",
+    "descripcion": "DETERGENTE LIQUI-JET 2 BIDON 3,78 LT (REF 1037-08)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "43700927",
+    "descripcion": "LUBRICANTE LIBRE DE SILICONA HINGE FREE BIDON 3,78 LT (REF 1031-08)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "3653896",
+    "descripcion": "GASA CUADRADA 2*2\"",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3655571",
+    "descripcion": "GASA NO GAUSE 5X5 NO ESTERIL (USO ESTERILIZACION)",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3350738",
+    "descripcion": "GASA LARGA 5*70 CM X 5 UNID. CON HILO RADIOPACO ESTERIL",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3653872",
+    "descripcion": "VENDA APOSITO 15*150 CM",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3653810",
+    "descripcion": "APOSITO 10 X 10 CM (X2 UNIDADES)",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3653822",
+    "descripcion": "APOSITO NO GAUSE 15 X 20",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3653834",
+    "descripcion": "APOSITO 30*30 CM",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3653846",
+    "descripcion": "APOSITO 40*40 CM",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "3653858",
+    "descripcion": "GASA LARGA 5X50X1 UNID. SIN HILO RADIOPACO",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2A"
+      }
+    ]
+  },
+  {
+    "codigo": "43700928",
+    "descripcion": "DETERGENTE MULTIENZIMATICO STERIS BIDON 3,79 LT (REF 1C3708)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1B"
+      }
+    ]
+  },
+  {
+    "codigo": "7600275",
+    "descripcion": "CINTA IMPRESION ERC-22 COD150828-440",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "999015902",
+    "descripcion": "CEPILLO PARA LAVAR 210 X 95 MM",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "43700935",
+    "descripcion": "PAPEL ELECTROCARDIOGRAMA EN Z 210X295MM",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "43700936",
+    "descripcion": "PAPEL TERMOSENSIBLE PARA ESPIROMETRIA 50MM X 30MT",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3656452",
+    "descripcion": "ATTEST SUPER RAPIDO 1492V X 50UN",
+    "ubicaciones": [
+      {
+        "pasillo": "2",
+        "ubicacion": "2B"
+      }
+    ]
+  },
+  {
+    "codigo": "3250221",
+    "descripcion": "JERINGA GASES ARTERIALES TERUMO",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3250211",
+    "descripcion": "JERINGA DESECH.TUBERCULINA 1CC C/AG.",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3654368",
+    "descripcion": "BATA PEDIATRICO 6- 12 AÑOS 65X90 CM",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3654367",
+    "descripcion": "BATA PEDIATRICO 3-6 AÑOS 55X80CM",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3A"
+      }
+    ]
+  },
+  {
+    "codigo": "3651141",
+    "descripcion": "MASCARILLA ANESTESIA TRANS N°3 MORADA",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3B"
+      }
+    ]
+  },
+  {
+    "codigo": "3451054",
+    "descripcion": "MASCARILLA ANESTESIA N°6",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3B"
+      }
+    ]
+  },
+  {
+    "codigo": "3651161",
+    "descripcion": "MASCARILLA ANESTESIA TRANSP. N.5 AZUL",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3C"
+      }
+    ]
+  },
+  {
+    "codigo": "3654058",
+    "descripcion": "CIRCUITO ANESTESIA NIÑO ST. REF 8081",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3C"
+      }
+    ]
+  },
+  {
+    "codigo": "41403332",
+    "descripcion": "GORRO CIRUJANO DESECHABLE TIPO PASAMONTAÑA",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3C"
+      }
+    ]
+  },
+  {
+    "codigo": "3656375",
+    "descripcion": "CUBREMESA ARSENALERA REFORZADA",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "3250171",
+    "descripcion": "JERINGA DESECH.20CC S/AG.TERUMO ATORNILLADAS (LUER LOCK)",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3D"
+      }
+    ]
+  },
+  {
+    "codigo": "3656745",
+    "descripcion": "KIT ANESTESIA RIÑON PULPA ESTERIL",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      }
+    ]
+  },
+  {
+    "codigo": "3656740",
+    "descripcion": "ESPECULO DESECHABLE TALLA S",
+    "ubicaciones": [
+      {
+        "pasillo": "3",
+        "ubicacion": "3F"
+      }
+    ]
+  },
+  {
+    "codigo": "3654374",
+    "descripcion": "SET DE APLICACIÓN GRANUFOAM MEDIUM",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "3654372",
+    "descripcion": "SET DE APLICACION GRANUFOAM SMALL",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "1A"
+      }
+    ]
+  },
+  {
+    "codigo": "42901475",
+    "descripcion": "OMNISET 1.6 (REF 7211423)",
+    "ubicaciones": [
+      {
+        "pasillo": "1",
+        "ubicacion": "2A"
+      }
+    ]
+  }
+]
